@@ -1,0 +1,60 @@
+header {
+    margin: 0 auto;
+    display: flex;
+	justify-content: space-between;
+	background-color: #eaeaea;
+	height: 200px;
+}
+
+.ul {
+    display: flex;
+	padding-right: 300px;
+}
+
+.ul li {
+    padding: 20px;
+    font-size: 30px;
+}
+
+.img {
+    width: 200px;
+    height: 200px;
+}
+
+.div_img {
+	padding-left: 300px;
+}
+
+
+
+
+
+.footer {
+    text-align: center;
+    margin: 0 auto;
+    width: 1500px;
+    height: 483px;
+
+    background-image: url("images/cafe_footer.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.kabu {
+    font-size: 30px;
+}
+
+.denwa {
+    font-size: 50px
+}
+
+.small {
+    position: absolute;
+    left: 1420px;
+
+}
+
+.footer p,
+.footer-img {
+    padding: 10px
+}
